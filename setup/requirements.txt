@@ -1,0 +1,10 @@
+networkx==2.3
+matplotlib
+pandas
+bitstring
+numpy
+scikit-learn
+natsort
+pydot
+graphviz
+seaborn

@@ -1,0 +1,29 @@
+
+
+
+
+
+python c2.py query_searchout_chargen_20200524_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_memcached_20200526_out_KL_0.08_AF_10.0/complete_info.csv
+
+python c2.py query_searchout_NTPControl_20200521_out_KL_0.08_AF_10.0/complete_info.csv
+
+
+python c2.py query_searchout_NTPControl_AND_20200608_out_KL_0.08_AF_10.0/complete_info.csv
+
+python c2.py query_searchout_NTPNormal_AND_20200608_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_NTPNormal_OR_20200529_out_KL_0.08_AF_10.0/complete_info.csv
+
+python c2.py query_searchout_NTPPrivate_20200518_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_NTPPrivate_AND_20200526_out_KL_0.08_AF_10.0/complete_info.csv
+
+python c2.py query_searchout_SNMPBulk_20200521_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SNMPBulk_AND_20200528_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SNMPGet_20200525_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SNMPGet_AND_20200529_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SNMPGet_OR_20200531_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SNMPNext_20200523_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SNMPNext_AND_20200601_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SNMPNext_OR_20200608_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py query_searchout_SSDP_20200523_out_KL_0.08_AF_10.0/complete_info.csv
+python c2.py sig_KL0.08_AF_30query_searchout_DNS_20200516/complete_info.csv
